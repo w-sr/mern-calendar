@@ -16,9 +16,6 @@
     "react-test": "react-scripts test --env=jsdom",
     "react-eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
